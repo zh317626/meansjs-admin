@@ -1,6 +1,6 @@
 # meansjs-admin
 
-## 地址
+## 网络地址
 https://zh317626.github.io/meansjs-admin/
 
 ## Project setup
