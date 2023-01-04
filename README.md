@@ -1,5 +1,8 @@
 # meansjs-admin
 
+## 地址
+https://zh317626.github.io/meansjs-admin/
+
 ## Project setup
 ```
 yarn install
