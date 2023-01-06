@@ -4,7 +4,7 @@
       <!-- 头部 -->
       <Header />
     </div>
-    <aside class="layout-sidebar">
+    <aside class="layout-sidebar sidebar-none">
       <!-- 侧边栏 -->
       <Sidebar />
     </aside>
@@ -67,6 +67,7 @@ export default defineComponent({
       height: auto !important;
       max-width: 740px;
       margin: 0 auto;
+      background-color: pink;
     }
   }
 }

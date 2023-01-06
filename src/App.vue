@@ -7,10 +7,6 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
 }
 
-html,
-body {
-  padding: 0;
-  margin: 0;
-}
+@import './style/common.less';
 
 </style>
